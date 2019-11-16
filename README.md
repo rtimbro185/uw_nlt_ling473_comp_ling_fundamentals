@@ -4,8 +4,8 @@
 ## [University of Washington, Master of Science in Computational Linguistics](https://www.compling.uw.edu/?utm_source=pce.uw.edu&utm_medium=referral&utm_campaign=(not%20set))
 ### [Certificate in Natural Language Technology](https://www.pce.uw.edu/certificates/natural-language-technology)
 
-### [LING 473 - Basics for Computational Linguistics](https://www.pce.uw.edu/courses/basics-for-computational-linguistics) - Summer 2016
-### SYLLABUS
+#### [LING 473 - Basics for Computational Linguistics](https://www.pce.uw.edu/courses/basics-for-computational-linguistics) - Summer 2016
+#### SYLLABUS
 
                                   **University of Washington, Professional & Continuing Education**
                                          **LING 473 - Basics for Computational Linguistics**     
