@@ -22,6 +22,7 @@ Computational linguistics builds on the theory and practice of multiple fields (
 
 
 
-Course Schedule:
+![UW_NLT_Certificate](./images/UW_NLT_Certificate_RyanTimbrook.png)
 
-![Schedule](./images/schedule.png)
+
+#### [LING 473 - Basics for Computational Linguistics](https://www.pce.uw.edu/courses/basics-for-computational-linguistics)
